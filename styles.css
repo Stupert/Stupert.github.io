@@ -21,7 +21,7 @@ body {
     position: sticky;
     top: 0;
     z-index: 1000;
-    background: #4d4755;
+    background: #3A445D;
     padding: 1rem 0;
     box-shadow: 0 2px 8px rgba(0,0,0,0.2);
 }
@@ -118,7 +118,7 @@ a {
 /* Footer */
 
 footer {
-    background: #4d4755;
+    background: #3A445D;
     color: #FCDEBE;
     padding: 1rem;
 }
